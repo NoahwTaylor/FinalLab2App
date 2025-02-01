@@ -1,4 +1,6 @@
-﻿// Fill a list with objects based on the supplied data file
+﻿// Author: Noah
+// Project: Lab 2
+// When: Jan 2025
 using Lab2;
 
 Lists.PopulateList(@"employees.txt");
